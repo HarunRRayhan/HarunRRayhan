@@ -76,6 +76,15 @@ I'm a software architect. I design and build systems end to end: solution archit
   </tr>
 </table>
 
+## Companies
+
+<sub>A few of the companies I've worked with.</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/companies-dark.svg">
+  <img alt="Companies I've worked with include SocialHP, L'Oréal, Kiehl's, Samsung, Prudential, Lonza, Fleetcor and NCR" src="assets/companies-light.svg" width="100%">
+</picture>
+
 ## Open source
 
 - [**content-machine**](https://github.com/HarunRRayhan/content-machine): capture ideas, write posts, schedule everywhere
