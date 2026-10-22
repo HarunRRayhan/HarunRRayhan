@@ -17,5 +17,5 @@ jobs:
         with:
           feed_list: "https://harun.dev/blog/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url)$newline"
+          template: "<li><a href=\"$url\">$title</a></li>$newline"
           commit_message: "Update latest blog posts"
