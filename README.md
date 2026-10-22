@@ -1,7 +1,7 @@
 <a href="https://harun.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
+    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=2" width="100%">
   </picture>
 </a>
 
@@ -29,35 +29,35 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://cloudploy.com"><img src="assets/products/cloudploy-icon.svg" width="36" height="36" align="left" alt=""></a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://cloudploy.com"><img src="assets/products/cloudploy-icon.svg" width="44" height="44" alt=""></a><br>
       <a href="https://cloudploy.com"><b>CloudPloy</b></a><br>
       <sub>Deploy from the AI tool you already use</sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://skaleagents.com"><img src="assets/products/skaleagents-icon.svg" width="36" height="36" align="left" alt=""></a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://skaleagents.com"><img src="assets/products/skaleagents-icon.svg" width="44" height="44" alt=""></a><br>
       <a href="https://skaleagents.com"><b>SkaleAgents</b></a><br>
       <sub>AI DevOps agents for code and infra review</sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://crontinel.com"><img src="assets/products/crontinel.png" width="36" height="36" align="left" alt=""></a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://crontinel.com"><img src="assets/products/crontinel.png" width="44" height="44" alt=""></a><br>
       <a href="https://crontinel.com"><b>Crontinel</b></a><br>
       <sub>Know when your background jobs go quiet</sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://toolblip.com"><img src="assets/products/toolblip.svg" width="36" height="36" align="left" alt=""></a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://toolblip.com"><img src="assets/products/toolblip.svg" width="44" height="44" alt=""></a><br>
       <a href="https://toolblip.com"><b>Toolblip</b></a><br>
       <sub>Everyday dev tools, one tab away</sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://appnary.com"><img src="assets/products/appnary-icon.png" width="36" height="36" align="left" alt=""></a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://appnary.com"><img src="assets/products/appnary-icon.png" width="44" height="44" alt=""></a><br>
       <a href="https://appnary.com"><b>Appnary</b></a><br>
       <sub>Shopify apps for store owners</sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://amazingplugins.com"><img src="assets/products/amazingplugins.jpg" width="36" height="36" align="left" alt=""></a>
+    <td width="33%" align="center" valign="top">
+      <a href="https://amazingplugins.com"><img src="assets/products/amazingplugins.jpg" width="44" height="44" alt=""></a><br>
       <a href="https://amazingplugins.com"><b>Amazing Plugins</b></a><br>
       <sub>Free, single-purpose WooCommerce plugins</sub>
     </td>
