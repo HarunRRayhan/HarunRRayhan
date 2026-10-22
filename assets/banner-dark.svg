@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Harun R. Rayhan — cloud and DevOps engineer, building CloudPloy, SkaleAgents, Crontinel and Toolblip">
+  <style>
+    .s{font-family:Georgia,'Iowan Old Style','Times New Roman',serif}
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px}
+    @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){g{animation:none!important;opacity:1!important}rect.c{animation:none!important}}
+  </style>
+  <rect width="1280" height="320" fill="#13110f"/>
+  <path d="M0 296H1280" stroke="#2b2622"/>
+  <text x="72" y="72" class="m" fill="#e0793f" letter-spacing="2">CLOUD · DEVOPS · PRODUCTS</text>
+  <text x="68" y="150" class="s" font-size="64" fill="#f4ede2">Harun R. Rayhan</text>
+  <text x="72" y="196" class="s" font-size="22" font-style="italic" fill="#a39887">I make shipping software boring,</text>
+  <text x="72" y="226" class="s" font-size="22" font-style="italic" fill="#a39887">then build products around the parts that weren't.</text>
+  <text x="72" y="276" class="m" fill="#a39887">harun.dev  ·  AWS · Terraform · Laravel · AI agents</text>
+  <rect x="760" y="48" width="460" height="232" rx="12" fill="#1b1815" stroke="#2b2622"/>
+  <circle cx="784" cy="70" r="5" fill="#2b2622"/><circle cx="802" cy="70" r="5" fill="#2b2622"/><circle cx="820" cy="70" r="5" fill="#2b2622"/>
+  <text x="1196" y="75" class="m" fill="#a39887" text-anchor="end">~/ship.log</text>
+  <g style="animation:in .5s ease-out 0.35s backwards">
+    <circle cx="790" cy="99" r="4" fill="#7cc28e"/>
+    <text x="806" y="104" class="m" fill="#e0793f">cloudploy</text>
+    <text x="920" y="104" class="m" fill="#f4ede2">deploy main → prod</text>
+    <text x="1196" y="104" class="m" fill="#a39887" text-anchor="end">41s</text>
+  </g>
+  <g style="animation:in .5s ease-out 0.57s backwards">
+    <circle cx="790" cy="133" r="4" fill="#7cc28e"/>
+    <text x="806" y="138" class="m" fill="#e0793f">crontinel</text>
+    <text x="920" y="138" class="m" fill="#f4ede2">nightly-backup on time</text>
+    <text x="1196" y="138" class="m" fill="#a39887" text-anchor="end">02:00</text>
+  </g>
+  <g style="animation:in .5s ease-out 0.79s backwards">
+    <circle cx="790" cy="167" r="4" fill="#7cc28e"/>
+    <text x="806" y="172" class="m" fill="#e0793f">skaleagents</text>
+    <text x="920" y="172" class="m" fill="#f4ede2">review PR #368: clean</text>
+    <text x="1196" y="172" class="m" fill="#a39887" text-anchor="end">1m12s</text>
+  </g>
+  <g style="animation:in .5s ease-out 1.01s backwards">
+    <circle cx="790" cy="201" r="4" fill="#7cc28e"/>
+    <text x="806" y="206" class="m" fill="#e0793f">terraform</text>
+    <text x="920" y="206" class="m" fill="#f4ede2">plan +3 ~0 -0</text>
+    <text x="1196" y="206" class="m" fill="#a39887" text-anchor="end">8s</text>
+  </g>
+  <g style="animation:in .5s ease-out 1.23s backwards">
+    <circle cx="790" cy="235" r="4" fill="#7cc28e"/>
+    <text x="806" y="240" class="m" fill="#e0793f">toolblip</text>
+    <text x="920" y="240" class="m" fill="#f4ede2">json → yaml</text>
+    <text x="1196" y="240" class="m" fill="#a39887" text-anchor="end">4ms</text>
+  </g>
+  <text x="790" y="272" class="m" fill="#f4ede2">$</text>
+  <rect class="c" x="806" y="261" width="8" height="15" fill="#e0793f" style="animation:blink 1.1s steps(1) infinite"/>
+</svg>
