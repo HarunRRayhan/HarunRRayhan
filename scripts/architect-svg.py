@@ -83,7 +83,6 @@ for name, c in themes.items():
     @keyframes halo{{0%,100%{{opacity:.15;transform:scale(1)}}50%{{opacity:.45;transform:scale(1.035)}}}}
     @media (prefers-reduced-motion:reduce){{.flow,.halo{{animation:none}}.pkt{{display:none}}}}
   </style>
-  <rect width="{W}" height="{H}" fill="{c['bg']}"/>
   <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="{c['rule']}"/></pattern></defs>
   <rect width="{W}" height="{H}" fill="url(#g)" opacity=".7"/>{wires}
   {ports}{''.join(nodes)}

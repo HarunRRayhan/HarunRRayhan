@@ -8,7 +8,6 @@
     @keyframes halo{0%,100%{opacity:.15;transform:scale(1)}50%{opacity:.45;transform:scale(1.035)}}
     @media (prefers-reduced-motion:reduce){.flow,.halo{animation:none}.pkt{display:none}}
   </style>
-  <rect width="1280" height="640" fill="#13110f"/>
   <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#332d28"/></pattern></defs>
   <rect width="1280" height="640" fill="url(#g)" opacity=".7"/>
   <path d="M455 275 H442 Q430 275 430 263 V102 Q430 90 418 90 H380" fill="none" stroke="#332d28" stroke-width="2"/>

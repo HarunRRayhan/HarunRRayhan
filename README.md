@@ -1,7 +1,7 @@
 <a href="https://harun.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=7">
-    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=7" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=8">
+    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=8" width="100%">
   </picture>
 </a>
 
@@ -33,8 +33,8 @@ I'm a software architect. I design and build systems end to end: solution archit
 ## What I do
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg?v=4">
-  <img alt="Software architect at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend (Rails, Rust, Laravel), databases and observability" src="assets/architect-light.svg?v=4" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg?v=5">
+  <img alt="Software architect at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend (Rails, Rust, Laravel), databases and observability" src="assets/architect-light.svg?v=5" width="100%">
 </picture>
 
 ## Products
@@ -81,8 +81,8 @@ I'm a software architect. I design and build systems end to end: solution archit
 <sub>A few of the companies I've worked with.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/companies-dark.svg">
-  <img alt="Companies I've worked with include SocialHP, L'Oréal, Kiehl's, Samsung, Prudential, Lonza, Fleetcor and NCR" src="assets/companies-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/companies-dark.svg?v=2">
+  <img alt="Companies I've worked with include SocialHP, L'Oréal, Kiehl's, Samsung, Prudential, Lonza, Fleetcor and NCR" src="assets/companies-light.svg?v=2" width="100%">
 </picture>
 
 ## Open source

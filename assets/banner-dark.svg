@@ -7,7 +7,6 @@
     @keyframes blink{50%{opacity:0}}
     @media (prefers-reduced-motion:reduce){rect.c,.pulse{animation:none!important}}
   </style>
-  <rect width="1280" height="320" fill="#13110f"/>
   <path d="M0 296H1280" stroke="#2b2622"/>
   <text x="72" y="72" class="m" fill="#e0793f" letter-spacing="2">SOFTWARE ARCHITECT</text>
   <text x="68" y="150" class="s" font-size="64" fill="#f4ede2">Harun R. Rayhan</text>
