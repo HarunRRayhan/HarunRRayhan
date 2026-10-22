@@ -75,7 +75,11 @@ I'm a cloud and DevOps engineer. I help teams move to AWS, write their infrastru
 ## Latest writing
 
 <ul>
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><li><a href="https://harun.dev/blog/terraform-or-pulumi">Terraform or Pulumi, Pick From the Team You Have</a></li>
+<li><a href="https://harun.dev/blog/eight-load-balancer-algorithms">Top 8 Load Balancer Algorithms You Should Know About</a></li>
+<li><a href="https://harun.dev/blog/agentcore-gateway-private-ca-without-the-alb">I Stopped Putting an ALB in Front of My Private MCP Just for TLS</a></li>
+<li><a href="https://harun.dev/blog/mcp-authentication-fix-401-remote-server">MCP Authentication Explained: Fix 401 Errors in a Remote MCP Server</a></li>
+<li><a href="https://harun.dev/blog/terraform-state-more-sensitive-than-env">Why Your Terraform State Is More Sensitive Than Your .env File</a></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
