@@ -67,6 +67,7 @@
 ## Open source
 
 - [**content-machine**](https://github.com/HarunRRayhan/content-machine): capture ideas, write posts, schedule everywhere
+- [**social-media-manager**](https://github.com/HarunRRayhan/social-media-manager): self-hosted social scheduling with API automation
 - [**Amphetamine-MacBook-Settings**](https://github.com/HarunRRayhan/Amphetamine-MacBook-Settings): keep a MacBook awake with the lid closed
 
 ## Latest writing
