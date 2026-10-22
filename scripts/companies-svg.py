@@ -10,7 +10,7 @@ W, H, CW, CH, GAP, DUR = 1280, 112, 180, 60, 16, 36
 step = CW + GAP; setw = step * len(logos)
 themes = {"light": dict(bg="#f6f1e7", card="#ffffff", rule="#e3d9c8"),
           "dark": dict(bg="#13110f", card="#ffffff", rule="#332d28")}
-symbols = "".join(f'  <image id="logo{i}" x="20" y="{(H-CH)//2+12}" width="{CW-40}" height="{CH-24}" href="{uri(f)}" preserveAspectRatio="xMidYMid meet" filter="url(#mono)" opacity=".7"/>\n' for i, (_, f) in enumerate(logos))
+symbols = "".join(f'  <image id="logo{i}" x="20" y="{(H-CH)//2+12}" width="{CW-40}" height="{CH-24}" href="{uri(f)}" preserveAspectRatio="xMidYMid meet" filter="url(#mono)" opacity=".85"/>\n' for i, (_, f) in enumerate(logos))
 for name, c in themes.items():
     cards = ""
     for rep in range(3):  # 3 copies so the strip never shows a gap at 1280px
@@ -20,8 +20,8 @@ for name, c in themes.items():
                       f'<use href="#logo{i}" x="{x}"/></g>\n')
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Companies: {', '.join(l for l,_ in logos)}">
 <defs>
-{symbols}  <filter id="mono"><feColorMatrix type="saturate" values="0"/></filter>
-  <linearGradient id="edge"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".1" stop-color="#fff"/><stop offset=".9" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+{symbols}  <filter id="mono"><feColorMatrix type="saturate" values="0"/><feComponentTransfer><feFuncR type="gamma" exponent="2.2"/><feFuncG type="gamma" exponent="2.2"/><feFuncB type="gamma" exponent="2.2"/></feComponentTransfer></filter>
+  <linearGradient id="edge"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".04" stop-color="#fff"/><stop offset=".96" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <mask id="fade" maskUnits="userSpaceOnUse" x="0" y="0" width="{W}" height="{H}"><rect width="{W}" height="{H}" fill="url(#edge)"/></mask>
 </defs>
 <g mask="url(#fade)"><g>

@@ -81,8 +81,8 @@ I'm a software architect. I design and build systems end to end: solution archit
 <sub>A few of the companies I've worked with.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/companies-dark.svg?v=3">
-  <img alt="Companies I've worked with include SocialHP, L'Oréal, Kiehl's, Samsung, Prudential, Lonza, Fleetcor and NCR" src="assets/companies-light.svg?v=3" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/companies-dark.svg?v=4">
+  <img alt="Companies I've worked with include SocialHP, L'Oréal, Kiehl's, Samsung, Prudential, Lonza, Fleetcor and NCR" src="assets/companies-light.svg?v=4" width="100%">
 </picture>
 
 ## Open source
