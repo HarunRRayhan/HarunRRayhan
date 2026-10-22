@@ -12,7 +12,7 @@
   <linearGradient id="edge"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".1" stop-color="#fff"/><stop offset=".9" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <mask id="fade" maskUnits="userSpaceOnUse" x="0" y="0" width="1280" height="112"><rect width="1280" height="112" fill="url(#edge)"/></mask>
 </defs>
-<g mask="url(#fade)">
+<g mask="url(#fade)"><g>
 <animateTransform attributeName="transform" type="translate" from="0 0" to="-1568 0" dur="36s" repeatCount="indefinite"/>
 <g><title>SocialHP</title><rect x="0" y="26" width="180" height="60" rx="10" fill="#ffffff" stroke="#332d28"/><use href="#logo0" x="0"/></g>
 <g><title>L'Oréal</title><rect x="196" y="26" width="180" height="60" rx="10" fill="#ffffff" stroke="#332d28"/><use href="#logo1" x="196"/></g>
@@ -38,5 +38,5 @@
 <g><title>Lonza</title><rect x="4116" y="26" width="180" height="60" rx="10" fill="#ffffff" stroke="#332d28"/><use href="#logo5" x="4116"/></g>
 <g><title>Fleetcor</title><rect x="4312" y="26" width="180" height="60" rx="10" fill="#ffffff" stroke="#332d28"/><use href="#logo6" x="4312"/></g>
 <g><title>NCR</title><rect x="4508" y="26" width="180" height="60" rx="10" fill="#ffffff" stroke="#332d28"/><use href="#logo7" x="4508"/></g>
-</g>
+</g></g>
 </svg>

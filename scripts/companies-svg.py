@@ -24,9 +24,9 @@ for name, c in themes.items():
   <linearGradient id="edge"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".1" stop-color="#fff"/><stop offset=".9" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <mask id="fade" maskUnits="userSpaceOnUse" x="0" y="0" width="{W}" height="{H}"><rect width="{W}" height="{H}" fill="url(#edge)"/></mask>
 </defs>
-<g mask="url(#fade)">
+<g mask="url(#fade)"><g>
 <animateTransform attributeName="transform" type="translate" from="0 0" to="-{setw} 0" dur="{DUR}s" repeatCount="indefinite"/>
-{cards}</g>
+{cards}</g></g>
 </svg>
 '''
     open(os.path.join(out, f"companies-{name}.svg"), "w").write(svg)
