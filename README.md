@@ -1,7 +1,7 @@
 <a href="https://harun.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
-    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=3">
+    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=3" width="100%">
   </picture>
 </a>
 
@@ -22,8 +22,8 @@
 | **Solution architecture** | System design, technical strategy, turning business needs into software |
 | **Cloud** | AWS, multi-cloud, serverless, migrations |
 | **DevOps** | Terraform, CI/CD, Kubernetes, monitoring |
-| **Backend** | Laravel, Rails, Rust, APIs, databases |
-| **AI** | Agents, MCP servers, LLM workflows in production |
+| **Backend** | Rails, Rust, APIs, databases |
+| **AI/ML** | Agents, MCP servers, MLOps, LLM workflows in production |
 
 ## Products
 
@@ -84,7 +84,7 @@
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,laravel,php,rails,rust,react,ts,postgres,redis,cloudflare&perline=15" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, Laravel, PHP, Ruby on Rails, Rust, React, TypeScript, PostgreSQL, Redis, Cloudflare">
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,php,rails,rust,react,ts,postgres,redis,cloudflare&perline=15" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, PHP, Ruby on Rails, Rust, React, TypeScript, PostgreSQL, Redis, Cloudflare">
 
 ---
 

@@ -11,7 +11,7 @@
   <text x="68" y="150" class="s" font-size="64" fill="#1c1917">Harun R. Rayhan</text>
   <text x="72" y="196" class="s" font-size="22" font-style="italic" fill="#6b625a">I make shipping software boring,</text>
   <text x="72" y="226" class="s" font-size="22" font-style="italic" fill="#6b625a">then build products around the parts that weren't.</text>
-  <text x="72" y="276" class="m" fill="#6b625a">harun.dev  ·  cloud · devops · backend · solutions</text>
+  <text x="72" y="276" class="m" fill="#6b625a">harun.dev  ·  AWS · Terraform · DevOps · AI/ML</text>
   <rect x="760" y="48" width="460" height="232" rx="12" fill="#fffaf2" stroke="#e3d9c8"/>
   <circle cx="784" cy="70" r="5" fill="#e3d9c8"/><circle cx="802" cy="70" r="5" fill="#e3d9c8"/><circle cx="820" cy="70" r="5" fill="#e3d9c8"/>
   <text x="1196" y="75" class="m" fill="#6b625a" text-anchor="end">~/ship.log</text>
