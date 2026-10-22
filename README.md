@@ -11,6 +11,7 @@
   <a href="https://harun.dev/products">Products</a> ·
   <a href="https://harun.dev/services">Services</a> ·
   <a href="https://harun.dev/consultation">Book a call</a> ·
+  <a href="https://harun.dev/sponsor-me">Sponsor</a> ·
   <a href="https://x.com/harundotdev">X</a> ·
   <a href="https://www.linkedin.com/in/harunrrayhan/">LinkedIn</a>
 </p>
@@ -85,6 +86,12 @@
 ## Stack
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,php,rails,rust,react,ts,postgres,redis,cloudflare&perline=15" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, PHP, Ruby on Rails, Rust, React, TypeScript, PostgreSQL, Redis, Cloudflare">
+
+## Sponsorship
+
+If my products, open source or writing save you time, you can support the work.
+
+<a href="https://harun.dev/sponsor-me"><img src="https://img.shields.io/badge/Sponsor_me-b8541f?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor me"></a>
 
 ---
 
