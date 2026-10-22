@@ -1,7 +1,7 @@
 <a href="https://harun.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=5">
-    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=5" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=6">
+    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=6" width="100%">
   </picture>
 </a>
 
@@ -16,11 +16,11 @@
   <a href="https://www.linkedin.com/in/harunrrayhan/">LinkedIn</a>
 </p>
 
-## Software architect
+## What I do
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg?v=2">
-  <img alt="Solution architecture at the center, connected to cloud engineering, AWS, DevOps (Terraform, CI/CD, Kubernetes), AI/ML, backend (Rails, Rust, APIs) and databases" src="assets/architect-light.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg?v=3">
+  <img alt="Software architect at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend (Rails, Rust, APIs), databases and observability" src="assets/architect-light.svg?v=3" width="100%">
 </picture>
 
 ## Products
