@@ -42,35 +42,35 @@ I'm a software architect. I design and build systems end to end: solution archit
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://cloudploy.com"><img src="assets/products/cloudploy-icon.svg" width="44" height="44" alt=""></a><br>
-      <a href="https://cloudploy.com"><b>CloudPloy</b></a><br>
+      <a href="https://cloudploy.com/?ref=github"><img src="assets/products/cloudploy-icon.svg" width="44" height="44" alt=""></a><br>
+      <a href="https://cloudploy.com/?ref=github"><b>CloudPloy</b></a><br>
       <sub>Deploy from the AI tool you already use</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://skaleagents.com"><img src="assets/products/skaleagents-icon.svg" width="44" height="44" alt=""></a><br>
-      <a href="https://skaleagents.com"><b>SkaleAgents</b></a><br>
+      <a href="https://skaleagents.com/?ref=github"><img src="assets/products/skaleagents-icon.svg" width="44" height="44" alt=""></a><br>
+      <a href="https://skaleagents.com/?ref=github"><b>SkaleAgents</b></a><br>
       <sub>AI DevOps agents for code and infra review</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://crontinel.com"><img src="assets/products/crontinel.png" width="44" height="44" alt=""></a><br>
-      <a href="https://crontinel.com"><b>Crontinel</b></a><br>
+      <a href="https://crontinel.com/?ref=github"><img src="assets/products/crontinel.png" width="44" height="44" alt=""></a><br>
+      <a href="https://crontinel.com/?ref=github"><b>Crontinel</b></a><br>
       <sub>Know when your background jobs go quiet</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://toolblip.com"><img src="assets/products/toolblip.svg" width="44" height="44" alt=""></a><br>
-      <a href="https://toolblip.com"><b>Toolblip</b></a><br>
+      <a href="https://toolblip.com/?ref=github"><img src="assets/products/toolblip.svg" width="44" height="44" alt=""></a><br>
+      <a href="https://toolblip.com/?ref=github"><b>Toolblip</b></a><br>
       <sub>Everyday dev tools, one tab away</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://appnary.com"><img src="assets/products/appnary-icon.png" width="44" height="44" alt=""></a><br>
-      <a href="https://appnary.com"><b>Appnary</b></a><br>
+      <a href="https://appnary.com/?ref=github"><img src="assets/products/appnary-icon.png" width="44" height="44" alt=""></a><br>
+      <a href="https://appnary.com/?ref=github"><b>Appnary</b></a><br>
       <sub>Shopify apps for store owners</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://amazingplugins.com"><img src="assets/products/amazingplugins.jpg" width="44" height="44" alt=""></a><br>
-      <a href="https://amazingplugins.com"><b>Amazing Plugins</b></a><br>
+      <a href="https://amazingplugins.com/?ref=github"><img src="assets/products/amazingplugins.jpg" width="44" height="44" alt=""></a><br>
+      <a href="https://amazingplugins.com/?ref=github"><b>Amazing Plugins</b></a><br>
       <sub>Free, single-purpose WooCommerce plugins</sub>
     </td>
   </tr>
