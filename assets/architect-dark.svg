@@ -11,65 +11,65 @@
   <rect width="1280" height="560" fill="#13110f"/>
   <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#332d28"/></pattern></defs>
   <rect width="1280" height="560" fill="url(#g)" opacity=".7"/>
-  <path d="M460 250 H422 Q410 250 410 238 V130 Q410 118 398 118 H360" fill="none" stroke="#332d28" stroke-width="2"/>
-  <path class="flow" d="M460 250 H422 Q410 250 410 238 V130 Q410 118 398 118 H360" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
-  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-0.00s" repeatCount="indefinite" path="M460 250 H422 Q410 250 410 238 V130 Q410 118 398 118 H360"/></circle>
-  <path d="M460 280 H360" fill="none" stroke="#332d28" stroke-width="2"/>
-  <path class="flow" d="M460 280 H360" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
-  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-0.45s" repeatCount="indefinite" path="M460 280 H360"/></circle>
-  <path d="M460 310 H422 Q410 310 410 322 V430 Q410 442 398 442 H360" fill="none" stroke="#332d28" stroke-width="2"/>
-  <path class="flow" d="M460 310 H422 Q410 310 410 322 V430 Q410 442 398 442 H360" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
-  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-0.90s" repeatCount="indefinite" path="M460 310 H422 Q410 310 410 322 V430 Q410 442 398 442 H360"/></circle>
-  <path d="M820 250 H858 Q870 250 870 238 V130 Q870 118 882 118 H920" fill="none" stroke="#332d28" stroke-width="2"/>
-  <path class="flow" d="M820 250 H858 Q870 250 870 238 V130 Q870 118 882 118 H920" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
-  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-1.35s" repeatCount="indefinite" path="M820 250 H858 Q870 250 870 238 V130 Q870 118 882 118 H920"/></circle>
-  <path d="M820 280 H920" fill="none" stroke="#332d28" stroke-width="2"/>
-  <path class="flow" d="M820 280 H920" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
-  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-1.80s" repeatCount="indefinite" path="M820 280 H920"/></circle>
-  <path d="M820 310 H858 Q870 310 870 322 V430 Q870 442 882 442 H920" fill="none" stroke="#332d28" stroke-width="2"/>
-  <path class="flow" d="M820 310 H858 Q870 310 870 322 V430 Q870 442 882 442 H920" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
-  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-2.25s" repeatCount="indefinite" path="M820 310 H858 Q870 310 870 322 V430 Q870 442 882 442 H920"/></circle>
-  <circle cx="360" cy="118" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="920" cy="118" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="360" cy="280" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="920" cy="280" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="360" cy="442" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="920" cy="442" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/>
+  <path d="M450 250 H427 Q415 250 415 238 V122 Q415 110 403 110 H380" fill="none" stroke="#332d28" stroke-width="2"/>
+  <path class="flow" d="M450 250 H427 Q415 250 415 238 V122 Q415 110 403 110 H380" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
+  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-0.00s" repeatCount="indefinite" path="M450 250 H427 Q415 250 415 238 V122 Q415 110 403 110 H380"/></circle>
+  <path d="M450 280 H380" fill="none" stroke="#332d28" stroke-width="2"/>
+  <path class="flow" d="M450 280 H380" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
+  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-0.45s" repeatCount="indefinite" path="M450 280 H380"/></circle>
+  <path d="M450 310 H427 Q415 310 415 322 V438 Q415 450 403 450 H380" fill="none" stroke="#332d28" stroke-width="2"/>
+  <path class="flow" d="M450 310 H427 Q415 310 415 322 V438 Q415 450 403 450 H380" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
+  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-0.90s" repeatCount="indefinite" path="M450 310 H427 Q415 310 415 322 V438 Q415 450 403 450 H380"/></circle>
+  <path d="M830 250 H853 Q865 250 865 238 V122 Q865 110 877 110 H900" fill="none" stroke="#332d28" stroke-width="2"/>
+  <path class="flow" d="M830 250 H853 Q865 250 865 238 V122 Q865 110 877 110 H900" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
+  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-1.35s" repeatCount="indefinite" path="M830 250 H853 Q865 250 865 238 V122 Q865 110 877 110 H900"/></circle>
+  <path d="M830 280 H900" fill="none" stroke="#332d28" stroke-width="2"/>
+  <path class="flow" d="M830 280 H900" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
+  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-1.80s" repeatCount="indefinite" path="M830 280 H900"/></circle>
+  <path d="M830 310 H853 Q865 310 865 322 V438 Q865 450 877 450 H900" fill="none" stroke="#332d28" stroke-width="2"/>
+  <path class="flow" d="M830 310 H853 Q865 310 865 322 V438 Q865 450 877 450 H900" fill="none" stroke="#e0793f" stroke-width="2" stroke-dasharray="4 14" opacity=".55"/>
+  <circle class="pkt" r="4.5" fill="#e0793f"><animateMotion dur="2.8s" begin="-2.25s" repeatCount="indefinite" path="M830 310 H853 Q865 310 865 322 V438 Q865 450 877 450 H900"/></circle>
+  <circle cx="380" cy="110" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="900" cy="110" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="380" cy="280" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="900" cy="280" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="380" cy="450" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="900" cy="450" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/>
   <g>
-    <rect x="60" y="72.0" width="300" height="92" rx="10" fill="#1b1815" stroke="#332d28"/>
-    <text x="80" y="104" class="m" font-size="11" letter-spacing="1.5" fill="#e0793f">01</text>
-    <text x="80" y="130" class="s" font-size="24" fill="#f4ede2">Cloud Engineering</text>
-    <text x="80" y="152" class="m" font-size="12" fill="#a39887">multi-cloud · serverless</text>
+    <rect x="60" y="60.0" width="320" height="100" rx="10" fill="#1b1815" stroke="#332d28"/>
+    <text x="80" y="90" class="m" font-size="13" letter-spacing="1.5" fill="#e0793f">01</text>
+    <text x="80" y="120" class="s" font-size="26" fill="#f4ede2">Cloud Engineering</text>
+    <text x="80" y="144" class="m" font-size="15" fill="#a39887">multi-cloud · serverless</text>
   </g>
   <g>
-    <rect x="60" y="234.0" width="300" height="92" rx="10" fill="#1b1815" stroke="#332d28"/>
-    <text x="80" y="266" class="m" font-size="11" letter-spacing="1.5" fill="#e0793f">02</text>
-    <text x="80" y="292" class="s" font-size="24" fill="#f4ede2">AWS</text>
-    <text x="80" y="314" class="m" font-size="12" fill="#a39887">ECS · Lambda · RDS · IAM</text>
+    <rect x="60" y="230.0" width="320" height="100" rx="10" fill="#1b1815" stroke="#332d28"/>
+    <text x="80" y="260" class="m" font-size="13" letter-spacing="1.5" fill="#e0793f">02</text>
+    <text x="80" y="290" class="s" font-size="26" fill="#f4ede2">AWS</text>
+    <text x="80" y="314" class="m" font-size="15" fill="#a39887">ECS · Lambda · RDS · IAM</text>
   </g>
   <g>
-    <rect x="60" y="396.0" width="300" height="92" rx="10" fill="#1b1815" stroke="#332d28"/>
-    <text x="80" y="428" class="m" font-size="11" letter-spacing="1.5" fill="#e0793f">03</text>
-    <text x="80" y="454" class="s" font-size="24" fill="#f4ede2">DevOps</text>
-    <text x="80" y="476" class="m" font-size="12" fill="#a39887">Terraform · CI/CD · Kubernetes</text>
+    <rect x="60" y="400.0" width="320" height="100" rx="10" fill="#1b1815" stroke="#332d28"/>
+    <text x="80" y="430" class="m" font-size="13" letter-spacing="1.5" fill="#e0793f">03</text>
+    <text x="80" y="460" class="s" font-size="26" fill="#f4ede2">DevOps</text>
+    <text x="80" y="484" class="m" font-size="15" fill="#a39887">Terraform · CI/CD · Kubernetes</text>
   </g>
   <g>
-    <rect x="920" y="72.0" width="300" height="92" rx="10" fill="#1b1815" stroke="#332d28"/>
-    <text x="940" y="104" class="m" font-size="11" letter-spacing="1.5" fill="#e0793f">04</text>
-    <text x="940" y="130" class="s" font-size="24" fill="#f4ede2">AI / ML</text>
-    <text x="940" y="152" class="m" font-size="12" fill="#a39887">agents · MCP · MLOps · LLMs</text>
+    <rect x="900" y="60.0" width="320" height="100" rx="10" fill="#1b1815" stroke="#332d28"/>
+    <text x="920" y="90" class="m" font-size="13" letter-spacing="1.5" fill="#e0793f">04</text>
+    <text x="920" y="120" class="s" font-size="26" fill="#f4ede2">AI / ML</text>
+    <text x="920" y="144" class="m" font-size="15" fill="#a39887">agents · MCP · MLOps · LLMs</text>
   </g>
   <g>
-    <rect x="920" y="234.0" width="300" height="92" rx="10" fill="#1b1815" stroke="#332d28"/>
-    <text x="940" y="266" class="m" font-size="11" letter-spacing="1.5" fill="#e0793f">05</text>
-    <text x="940" y="292" class="s" font-size="24" fill="#f4ede2">Backend</text>
-    <text x="940" y="314" class="m" font-size="12" fill="#a39887">Rails · Rust · APIs</text>
+    <rect x="900" y="230.0" width="320" height="100" rx="10" fill="#1b1815" stroke="#332d28"/>
+    <text x="920" y="260" class="m" font-size="13" letter-spacing="1.5" fill="#e0793f">05</text>
+    <text x="920" y="290" class="s" font-size="26" fill="#f4ede2">Backend</text>
+    <text x="920" y="314" class="m" font-size="15" fill="#a39887">Rails · Rust · APIs</text>
   </g>
   <g>
-    <rect x="920" y="396.0" width="300" height="92" rx="10" fill="#1b1815" stroke="#332d28"/>
-    <text x="940" y="428" class="m" font-size="11" letter-spacing="1.5" fill="#e0793f">06</text>
-    <text x="940" y="454" class="s" font-size="24" fill="#f4ede2">Databases</text>
-    <text x="940" y="476" class="m" font-size="12" fill="#a39887">Postgres · Redis · modeling</text>
+    <rect x="900" y="400.0" width="320" height="100" rx="10" fill="#1b1815" stroke="#332d28"/>
+    <text x="920" y="430" class="m" font-size="13" letter-spacing="1.5" fill="#e0793f">06</text>
+    <text x="920" y="460" class="s" font-size="26" fill="#f4ede2">Databases</text>
+    <text x="920" y="484" class="m" font-size="15" fill="#a39887">Postgres · Redis · modeling</text>
   </g>
-  <rect class="halo" x="450" y="186" width="380" height="188" rx="18" fill="none" stroke="#e0793f" stroke-width="1.5"/>
-  <rect x="460" y="196" width="360" height="168" rx="14" fill="#f4ede2"/>
-  <text x="640" y="240" text-anchor="middle" class="m" font-size="12" letter-spacing="3" fill="#e0793f">SOFTWARE ARCHITECT</text>
-  <text x="640" y="284" text-anchor="middle" class="s" font-size="32" fill="#13110f">Solution Architecture</text>
-  <text x="640" y="314" text-anchor="middle" class="m" font-size="13" fill="#6b625a">system design · technical strategy</text>
-  <text x="640" y="336" text-anchor="middle" class="m" font-size="13" fill="#6b625a">business needs → software</text>
+  <rect class="halo" x="440" y="180" width="400" height="200" rx="18" fill="none" stroke="#e0793f" stroke-width="1.5"/>
+  <rect x="450" y="190" width="380" height="180" rx="14" fill="#f4ede2"/>
+  <text x="640" y="232" text-anchor="middle" class="m" font-size="15" letter-spacing="3" fill="#e0793f">SOFTWARE ARCHITECT</text>
+  <text x="640" y="280" text-anchor="middle" class="s" font-size="36" fill="#13110f">Solution Architecture</text>
+  <text x="640" y="316" text-anchor="middle" class="m" font-size="15" fill="#6b625a">system design · technical strategy</text>
+  <text x="640" y="340" text-anchor="middle" class="m" font-size="15" fill="#6b625a">business needs → software</text>
 </svg>
