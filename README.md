@@ -106,7 +106,7 @@ I'm a software architect. I design and build systems end to end: solution archit
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,php,rails,rust,react,ts,postgres,redis,cloudflare&perline=15" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, PHP, Ruby on Rails, Rust, React, TypeScript, PostgreSQL, Redis, Cloudflare">
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,php,rails,rust,react,ts,postgres,redis,cloudflare,laravel&perline=16" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, PHP, Ruby on Rails, Rust, React, TypeScript, PostgreSQL, Redis, Cloudflare, Laravel">
 
 ## Sponsorship
 
