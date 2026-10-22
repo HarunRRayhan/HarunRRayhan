@@ -2,8 +2,10 @@
   <style>
     .s{font-family:Georgia,'Iowan Old Style','Times New Roman',serif}
     .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px}
+    .pulse{animation:pulse 2.4s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.25}}
     @keyframes blink{50%{opacity:0}}
-    @media (prefers-reduced-motion:reduce){g{animation:none!important;opacity:1!important}rect.c{animation:none!important}}
+    @media (prefers-reduced-motion:reduce){g{animation:none!important;opacity:1!important}rect.c,.pulse{animation:none!important}}
   </style>
   <rect width="1280" height="320" fill="#13110f"/>
   <path d="M0 296H1280" stroke="#2b2622"/>
@@ -16,31 +18,31 @@
   <circle cx="784" cy="70" r="5" fill="#2b2622"/><circle cx="802" cy="70" r="5" fill="#2b2622"/><circle cx="820" cy="70" r="5" fill="#2b2622"/>
   <text x="1196" y="75" class="m" fill="#a39887" text-anchor="end">~/ship.log</text>
   <g>
-    <circle cx="790" cy="99" r="4" fill="#7cc28e"/>
+    <circle class="pulse" style="animation-delay:-0.4s" cx="790" cy="99" r="4" fill="#7cc28e"/>
     <text x="806" y="104" class="m" fill="#e0793f">cloudploy</text>
     <text x="920" y="104" class="m" fill="#f4ede2">deploy main → prod</text>
     <text x="1196" y="104" class="m" fill="#a39887" text-anchor="end">41s</text>
   </g>
   <g>
-    <circle cx="790" cy="133" r="4" fill="#7cc28e"/>
+    <circle class="pulse" style="animation-delay:-0.8s" cx="790" cy="133" r="4" fill="#7cc28e"/>
     <text x="806" y="138" class="m" fill="#e0793f">crontinel</text>
     <text x="920" y="138" class="m" fill="#f4ede2">nightly-backup on time</text>
     <text x="1196" y="138" class="m" fill="#a39887" text-anchor="end">02:00</text>
   </g>
   <g>
-    <circle cx="790" cy="167" r="4" fill="#7cc28e"/>
+    <circle class="pulse" style="animation-delay:-1.2s" cx="790" cy="167" r="4" fill="#7cc28e"/>
     <text x="806" y="172" class="m" fill="#e0793f">skaleagents</text>
     <text x="920" y="172" class="m" fill="#f4ede2">review PR #368: clean</text>
     <text x="1196" y="172" class="m" fill="#a39887" text-anchor="end">1m12s</text>
   </g>
   <g>
-    <circle cx="790" cy="201" r="4" fill="#7cc28e"/>
+    <circle class="pulse" style="animation-delay:-1.6s" cx="790" cy="201" r="4" fill="#7cc28e"/>
     <text x="806" y="206" class="m" fill="#e0793f">terraform</text>
     <text x="920" y="206" class="m" fill="#f4ede2">plan +3 ~0 -0</text>
     <text x="1196" y="206" class="m" fill="#a39887" text-anchor="end">8s</text>
   </g>
   <g>
-    <circle cx="790" cy="235" r="4" fill="#7cc28e"/>
+    <circle class="pulse" style="animation-delay:-2.0s" cx="790" cy="235" r="4" fill="#7cc28e"/>
     <text x="806" y="240" class="m" fill="#e0793f">toolblip</text>
     <text x="920" y="240" class="m" fill="#f4ede2">json → yaml</text>
     <text x="1196" y="240" class="m" fill="#a39887" text-anchor="end">4ms</text>

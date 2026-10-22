@@ -1,7 +1,7 @@
 <a href="https://harun.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=3">
-    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=3" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=4">
+    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=4" width="100%">
   </picture>
 </a>
 
@@ -18,12 +18,10 @@
 
 ## Software architect
 
-| Area | Focus |
-| --- | --- |
-| **Solution architecture** | System design, technical strategy, Rails, Rust, APIs, databases, turning business needs into software |
-| **Cloud** | AWS, multi-cloud, serverless, migrations |
-| **DevOps** | Terraform, CI/CD, Kubernetes, monitoring |
-| **AI/ML** | Agents, MCP servers, MLOps, LLM workflows in production |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg">
+  <img alt="Solution architecture at the center, connected to cloud engineering, AWS, DevOps (Terraform, CI/CD, Kubernetes), AI/ML, backend (Rails, Rust, APIs) and databases" src="assets/architect-light.svg" width="100%">
+</picture>
 
 ## Products
 
