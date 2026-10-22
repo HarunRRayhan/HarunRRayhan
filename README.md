@@ -33,8 +33,8 @@ I'm a software architect. I design and build systems end to end: solution archit
 ## What I do
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg?v=3">
-  <img alt="Software architect at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend (Rails, Rust, APIs), databases and observability" src="assets/architect-light.svg?v=3" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg?v=4">
+  <img alt="Software architect at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend (Rails, Rust, Laravel), databases and observability" src="assets/architect-light.svg?v=4" width="100%">
 </picture>
 
 ## Products

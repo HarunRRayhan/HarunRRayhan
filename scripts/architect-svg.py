@@ -33,7 +33,7 @@ left = [("Solution Architecture", "system design · trade-offs", ["@bp"]),
         ("AWS", "ECS · Lambda · RDS · IAM", ["aws"]),
         ("DevOps &amp; Terraform", "IaC · CI/CD · Kubernetes", ["terraform", "docker", "kubernetes", "githubactions"])]
 right = [("AI / ML", "agents · MCP · MLOps · LLMs", ["py", "pytorch", "tensorflow"]),
-         ("Backend", "Rails · Rust · APIs", ["rails", "rust", "graphql"]),
+         ("Backend", "Rails · Rust · Laravel", ["rails", "rust", "laravel"]),
          ("Databases", "Postgres · Redis · modeling", ["postgres", "redis", "mysql"]),
          ("Observability", "metrics · alerts · cron jobs", ["prometheus", "grafana"])]
 
