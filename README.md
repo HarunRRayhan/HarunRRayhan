@@ -16,6 +16,18 @@
   <a href="https://www.linkedin.com/in/harunrrayhan/">LinkedIn</a>
 </p>
 
+## About me
+
+Hi, I'm **Harun** 👋 A software architect who designs and builds systems end to end: solution architecture, AWS, Terraform, DevOps, backend and AI/ML. When I'm not helping teams, I'm shipping my own products.
+
+<p>
+<a href="https://harun.dev"><img src="https://img.shields.io/badge/harun.dev-b8541f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="harun.dev"></a>
+<a href="https://x.com/harundotdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.linkedin.com/in/harunrrayhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://harun.dev/blog"><img src="https://img.shields.io/badge/Blog-1c1917?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
+<a href="https://harun.dev/consultation"><img src="https://img.shields.io/badge/Book_a_call-3f7d4e?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"></a>
+</p>
+
 ## What I do
 
 <picture>
