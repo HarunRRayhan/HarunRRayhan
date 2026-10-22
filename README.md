@@ -1,7 +1,7 @@
 <a href="https://harun.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Harun R. Rayhan: cloud and DevOps engineer building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg" width="100%">
+    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/harunrrayhan/">LinkedIn</a>
 </p>
 
-I'm a cloud and DevOps engineer. I help teams move to AWS, write their infrastructure as code, and get deploys to the point where nobody has to think about them. The tools I kept wishing I had along the way turned into the products below.
+I'm a software architect. That covers the whole technical side of a business: solution and cloud architecture, backend systems, DevOps, and turning a business problem into software that holds up. I help teams move to AWS, write their infrastructure as code, and get deploys to the point where nobody has to think about them. The tools I kept wishing I had along the way turned into the products below.
 
 ## Products
 
@@ -64,13 +64,20 @@ I'm a cloud and DevOps engineer. I help teams move to AWS, write their infrastru
 
 ## Open source
 
-| Project | What it does |
-| --- | --- |
-| [**lux-client-management-system**](https://github.com/HarunRRayhan/lux-client-management-system) | Projects, tasks and invoices for client work in one Laravel app |
-| [**content-machine**](https://github.com/HarunRRayhan/content-machine) | Capture ideas, write posts, schedule them everywhere |
-| [**Amphetamine-MacBook-Settings**](https://github.com/HarunRRayhan/Amphetamine-MacBook-Settings) | Keep a MacBook awake with the lid closed, with an installer |
-| [**awesome-cron-monitoring**](https://github.com/HarunRRayhan/awesome-cron-monitoring) | A curated list of tools for watching cron jobs and background work |
-| [**laravel-shortlink**](https://github.com/HarunRRayhan/laravel-shortlink) | Short links from a bijective function instead of random IDs |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/HarunRRayhan/content-machine"><b>content-machine</b></a><br>
+      <sub>PHP · LARAVEL · INERTIA · REACT</sub><br><br>
+      An open-source content pipeline: capture ideas, write posts, and schedule them everywhere.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/HarunRRayhan/Amphetamine-MacBook-Settings"><b>Amphetamine-MacBook-Settings</b></a><br>
+      <sub>SHELL</sub><br><br>
+      Keep your MacBook awake with the lid closed while the display sleeps. Opinionated settings, an interactive installer and AI tool integration.
+    </td>
+  </tr>
+</table>
 
 ## Latest writing
 
@@ -88,7 +95,7 @@ I'm a cloud and DevOps engineer. I help teams move to AWS, write their infrastru
 ## What I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,laravel,php,react,ts,postgres,redis,cloudflare&perline=15" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, Laravel, PHP, React, TypeScript, PostgreSQL, Redis, Cloudflare">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,laravel,php,react,ts,rust,rails,postgres,redis,cloudflare&perline=15" alt="AWS, Terraform, Docker, Kubernetes, GitHub Actions, Linux, Laravel, PHP, React, TypeScript, Rust, Ruby on Rails, PostgreSQL, Redis, Cloudflare">
 </p>
 
 ## Work with me
