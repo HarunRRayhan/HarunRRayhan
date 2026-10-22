@@ -20,10 +20,9 @@
 
 | Area | Focus |
 | --- | --- |
-| **Solution architecture** | System design, technical strategy, turning business needs into software |
+| **Solution architecture** | System design, technical strategy, Rails, Rust, APIs, databases, turning business needs into software |
 | **Cloud** | AWS, multi-cloud, serverless, migrations |
 | **DevOps** | Terraform, CI/CD, Kubernetes, monitoring |
-| **Backend** | Rails, Rust, APIs, databases |
 | **AI/ML** | Agents, MCP servers, MLOps, LLM workflows in production |
 
 ## Products
