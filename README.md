@@ -19,8 +19,8 @@
 ## Software architect
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg">
-  <img alt="Solution architecture at the center, connected to cloud engineering, AWS, DevOps (Terraform, CI/CD, Kubernetes), AI/ML, backend (Rails, Rust, APIs) and databases" src="assets/architect-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg?v=2">
+  <img alt="Solution architecture at the center, connected to cloud engineering, AWS, DevOps (Terraform, CI/CD, Kubernetes), AI/ML, backend (Rails, Rust, APIs) and databases" src="assets/architect-light.svg?v=2" width="100%">
 </picture>
 
 ## Products
