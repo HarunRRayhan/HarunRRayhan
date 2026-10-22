@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <a href="https://harun.dev"><b>harun.dev</b></a> ·
+  <a href="https://harun.dev"><b>Portfolio</b></a> ·
   <a href="https://harun.dev/blog">Blog</a> ·
   <a href="https://harun.dev/products">Products</a> ·
   <a href="https://harun.dev/services">Services</a> ·
@@ -23,7 +23,7 @@
 I'm a software architect. I design and build systems end to end: solution architecture, AWS, Terraform, DevOps, backend and AI/ML. When I'm not helping teams, I'm shipping my own products.
 
 <p>
-<a href="https://harun.dev"><img src="https://img.shields.io/badge/harun.dev-b8541f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="harun.dev"></a>
+<a href="https://harun.dev"><img src="https://img.shields.io/badge/Portfolio-harun.dev-b8541f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1c1917" alt="Portfolio: harun.dev"></a>
 <a href="https://x.com/harundotdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a href="https://www.linkedin.com/in/harunrrayhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn"></a>
 <a href="https://harun.dev/blog"><img src="https://img.shields.io/badge/Blog-1c1917?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"></a>
