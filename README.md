@@ -18,7 +18,9 @@
 
 ## About me
 
-Hi, I'm **Harun** 👋 A software architect who designs and builds systems end to end: solution architecture, AWS, Terraform, DevOps, backend and AI/ML. When I'm not helping teams, I'm shipping my own products.
+### Hi, I'm Harun 👋
+
+I'm a software architect. I design and build systems end to end: solution architecture, AWS, Terraform, DevOps, backend and AI/ML. When I'm not helping teams, I'm shipping my own products.
 
 <p>
 <a href="https://harun.dev"><img src="https://img.shields.io/badge/harun.dev-b8541f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="harun.dev"></a>
