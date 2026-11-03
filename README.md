@@ -11,7 +11,7 @@
   <a href="https://harun.dev/products">Products</a> ·
   <a href="https://harun.dev/services">Services</a> ·
   <a href="https://harun.dev/consultation">Book a call</a> ·
-  <a href="https://harun.dev/sponsor-me">Sponsor</a> ·
+  <a href="https://github.com/sponsors/HarunRRayhan">Sponsor</a> ·
   <a href="https://x.com/harundotdev">X</a> ·
   <a href="https://www.linkedin.com/in/harunrrayhan/">LinkedIn</a>
 </p>
@@ -112,7 +112,7 @@ I'm a software architect. I design and build systems end to end: solution archit
 
 If my products, open source or writing save you time, you can support the work.
 
-<a href="https://harun.dev/sponsor-me"><img src="https://img.shields.io/badge/Sponsor_me-b8541f?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor me"></a>
+<a href="https://github.com/sponsors/HarunRRayhan"><img src="https://img.shields.io/badge/Sponsor_me-b8541f?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor me"></a>
 
 ---
 
