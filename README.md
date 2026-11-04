@@ -98,7 +98,7 @@ I'm a solution architect and software engineer. I design and build systems end t
 ## Open source
 
 - [**content-machine**](https://github.com/HarunRRayhan/content-machine): capture ideas, write posts, schedule everywhere
-- [**social-media-manager**](https://github.com/HarunRRayhan/social-media-manager): self-hosted social scheduling with API automation
+- [**RayStack**](https://github.com/HarunRRayhan/RayStack): read-only review skills for coding agents: AWS, security, bottlenecks, scaling and databases
 - [**Amphetamine-MacBook-Settings**](https://github.com/HarunRRayhan/Amphetamine-MacBook-Settings): keep a MacBook awake with the lid closed
 
 ## Latest writing
