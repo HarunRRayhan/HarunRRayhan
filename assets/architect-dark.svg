@@ -37,7 +37,7 @@
   <circle cx="380" cy="90" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="900" cy="90" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="380" cy="240" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="900" cy="240" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="380" cy="400" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="900" cy="400" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="380" cy="550" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/><circle cx="900" cy="550" r="4" fill="#13110f" stroke="#e0793f" stroke-width="2"/>
   <g>
     <rect x="40" y="28.0" width="340" height="124" rx="12" fill="#1b1815" stroke="#332d28"/>
-    <g transform="translate(60 44) scale(1.0714285714285714)"><rect width="28" height="28" rx="6.5" fill="#f4ede2"/><rect x="6" y="6" width="16" height="4" rx="1" fill="#e0793f"/><rect x="6" y="12" width="7" height="10" rx="1" fill="none" stroke="#13110f" stroke-width="1.5"/><rect x="15" y="12" width="7" height="10" rx="1" fill="none" stroke="#13110f" stroke-width="1.5"/></g>
+    <g transform="translate(60 44) scale(1.0714285714285714)"><rect width="28" height="28" rx="6.5" fill="#2b2622"/><rect x="6" y="6" width="16" height="4" rx="1" fill="#e0793f"/><rect x="6" y="12" width="7" height="10" rx="1" fill="none" stroke="#f4ede2" stroke-width="1.5"/><rect x="15" y="12" width="7" height="10" rx="1" fill="none" stroke="#f4ede2" stroke-width="1.5"/></g>
     <text x="60" y="106" class="s" font-size="26" fill="#f4ede2">Solution Architecture</text>
     <text x="60" y="132" class="m" font-size="15" fill="#a39887">system design · trade-offs</text>
   </g>
@@ -112,8 +112,8 @@
     <text x="920" y="592" class="m" font-size="15" fill="#a39887">metrics · alerts · cron jobs</text>
   </g>
   <rect class="halo" x="445" y="220" width="390" height="200" rx="20" fill="none" stroke="#e0793f" stroke-width="1.5"/>
-  <rect x="455" y="230" width="370" height="180" rx="16" fill="#f4ede2"/>
+  <rect x="455" y="230" width="370" height="180" rx="16" fill="#2b2622"/>
   <text x="640" y="276" text-anchor="middle" class="m" font-size="14" letter-spacing="3" fill="#e0793f">HARUN R. RAYHAN</text>
-  <text x="640" y="330" text-anchor="middle" class="s" font-size="42" fill="#13110f">Solution Architect</text>
-  <text x="640" y="366" text-anchor="middle" class="m" font-size="15" letter-spacing="3" fill="#6b625a">SOFTWARE ENGINEER</text>
+  <text x="640" y="330" text-anchor="middle" class="s" font-size="42" fill="#f4ede2">Solution Architect</text>
+  <text x="640" y="366" text-anchor="middle" class="m" font-size="15" letter-spacing="3" fill="#a39887">SOFTWARE ENGINEER</text>
 </svg>

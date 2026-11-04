@@ -13,14 +13,14 @@ def icon(name, x, y, size):
 def blueprint(x, y, size, c):
     # hand-drawn "solution architecture" tile: three layered boxes
     s = size / 28
-    return (f'<g transform="translate({x} {y}) scale({s})"><rect width="28" height="28" rx="6.5" fill="{c["ink"]}"/>'
+    return (f'<g transform="translate({x} {y}) scale({s})"><rect width="28" height="28" rx="6.5" fill="{c["cfill"]}"/>'
             f'<rect x="6" y="6" width="16" height="4" rx="1" fill="{c["accent"]}"/>'
-            f'<rect x="6" y="12" width="7" height="10" rx="1" fill="none" stroke="{c["bg"]}" stroke-width="1.5"/>'
-            f'<rect x="15" y="12" width="7" height="10" rx="1" fill="none" stroke="{c["bg"]}" stroke-width="1.5"/></g>')
+            f'<rect x="6" y="12" width="7" height="10" rx="1" fill="none" stroke="{c["ctext"]}" stroke-width="1.5"/>'
+            f'<rect x="15" y="12" width="7" height="10" rx="1" fill="none" stroke="{c["ctext"]}" stroke-width="1.5"/></g>')
 
 themes = {
- "light": dict(bg="#f6f1e7", ink="#1c1917", mute="#6b625a", rule="#ddd2bf", accent="#b8541f", panel="#fffaf2", csub="#ddd2bf"),
- "dark":  dict(bg="#13110f", ink="#f4ede2", mute="#a39887", rule="#332d28", accent="#e0793f", panel="#1b1815", csub="#6b625a"),
+ "light": dict(bg="#f6f1e7", ink="#1c1917", mute="#6b625a", rule="#ddd2bf", accent="#b8541f", panel="#fffaf2", csub="#ddd2bf", cfill="#1c1917", ctext="#f6f1e7"),
+ "dark":  dict(bg="#13110f", ink="#f4ede2", mute="#a39887", rule="#332d28", accent="#e0793f", panel="#1b1815", csub="#a39887", cfill="#2b2622", ctext="#f4ede2"),
 }
 W, H = 1280, 640
 CX0, CX1, CY0, CY1 = 455, 825, 230, 410
@@ -87,9 +87,9 @@ for name, c in themes.items():
   <rect width="{W}" height="{H}" fill="url(#g)" opacity=".7"/>{wires}
   {ports}{''.join(nodes)}
   <rect class="halo" x="{CX0-10}" y="{CY0-10}" width="{CX1-CX0+20}" height="{CY1-CY0+20}" rx="20" fill="none" stroke="{c['accent']}" stroke-width="1.5"/>
-  <rect x="{CX0}" y="{CY0}" width="{CX1-CX0}" height="{CY1-CY0}" rx="16" fill="{c['ink']}"/>
+  <rect x="{CX0}" y="{CY0}" width="{CX1-CX0}" height="{CY1-CY0}" rx="16" fill="{c['cfill']}"/>
   <text x="{cx}" y="{CY0+46}" text-anchor="middle" class="m" font-size="14" letter-spacing="3" fill="{c['accent']}">HARUN R. RAYHAN</text>
-  <text x="{cx}" y="{CY0+100}" text-anchor="middle" class="s" font-size="42" fill="{c['bg']}">Solution Architect</text>
+  <text x="{cx}" y="{CY0+100}" text-anchor="middle" class="s" font-size="42" fill="{c['ctext']}">Solution Architect</text>
   <text x="{cx}" y="{CY0+136}" text-anchor="middle" class="m" font-size="15" letter-spacing="3" fill="{c['csub']}">SOFTWARE ENGINEER</text>
 </svg>
 '''
