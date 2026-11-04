@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Software architect at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend, databases and observability">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Solution architect and software engineer at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend, databases and observability">
   <style>
     .s{font-family:Georgia,'Iowan Old Style','Times New Roman',serif}
     .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
@@ -114,6 +114,6 @@
   <rect class="halo" x="445" y="220" width="390" height="200" rx="20" fill="none" stroke="#b8541f" stroke-width="1.5"/>
   <rect x="455" y="230" width="370" height="180" rx="16" fill="#1c1917"/>
   <text x="640" y="276" text-anchor="middle" class="m" font-size="14" letter-spacing="3" fill="#b8541f">HARUN R. RAYHAN</text>
-  <text x="640" y="330" text-anchor="middle" class="s" font-size="42" fill="#f6f1e7">Software Architect</text>
-  <text x="640" y="366" text-anchor="middle" class="m" font-size="15" fill="#ddd2bf">design · build · ship · scale</text>
+  <text x="640" y="330" text-anchor="middle" class="s" font-size="42" fill="#f6f1e7">Solution Architect</text>
+  <text x="640" y="366" text-anchor="middle" class="m" font-size="15" letter-spacing="3" fill="#ddd2bf">SOFTWARE ENGINEER</text>
 </svg>
