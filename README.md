@@ -1,7 +1,7 @@
 <a href="https://harun.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=8">
-    <img alt="Harun R. Rayhan: software architect building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=8" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=9">
+    <img alt="Harun R. Rayhan: solution architect and software engineer building CloudPloy, SkaleAgents, Crontinel and Toolblip" src="assets/banner-light.svg?v=9" width="100%">
   </picture>
 </a>
 
@@ -20,7 +20,7 @@
 
 ### Hi, I'm Harun 👋
 
-I'm a software architect. I design and build systems end to end: solution architecture, AWS, Terraform, DevOps, backend and AI/ML. When I'm not helping teams, I'm shipping my own products.
+I'm a solution architect and software engineer. I design and build systems end to end: solution architecture, AWS, Terraform, DevOps, backend and AI/ML. When I'm not helping teams, I'm shipping my own products.
 
 <p>
 <a href="https://harun.dev"><img src="https://img.shields.io/badge/Portfolio-harun.dev-b8541f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1c1917" alt="Portfolio: harun.dev"></a>
@@ -33,8 +33,8 @@ I'm a software architect. I design and build systems end to end: solution archit
 ## What I do
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg?v=5">
-  <img alt="Software architect at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend (Rails, Rust, Laravel), databases and observability" src="assets/architect-light.svg?v=5" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/architect-dark.svg?v=6">
+  <img alt="Solution architect and software engineer at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend (Rails, Rust, Laravel), databases and observability" src="assets/architect-light.svg?v=6" width="100%">
 </picture>
 
 ## Products

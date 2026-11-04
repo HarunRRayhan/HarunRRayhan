@@ -73,7 +73,7 @@ for name, c in themes.items():
   <circle class="pkt" r="4.5" fill="{c['accent']}"><animateMotion dur="2.8s" begin="-{i*0.35:.2f}s" repeatCount="indefinite" path="{d}"/></circle>'''
     ports = "".join(f'<circle cx="{L+NW}" cy="{y}" r="4" fill="{c["bg"]}" stroke="{c["accent"]}" stroke-width="2"/><circle cx="{R}" cy="{y}" r="4" fill="{c["bg"]}" stroke="{c["accent"]}" stroke-width="2"/>' for y in rows)
     cx, cy = (CX0 + CX1) // 2, (CY0 + CY1) // 2
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Software architect at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend, databases and observability">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Solution architect and software engineer at the center, connected to solution architecture, cloud engineering, AWS, DevOps and Terraform, AI/ML, backend, databases and observability">
   <style>
     .s{{font-family:Georgia,'Iowan Old Style','Times New Roman',serif}}
     .m{{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}}
@@ -89,8 +89,8 @@ for name, c in themes.items():
   <rect class="halo" x="{CX0-10}" y="{CY0-10}" width="{CX1-CX0+20}" height="{CY1-CY0+20}" rx="20" fill="none" stroke="{c['accent']}" stroke-width="1.5"/>
   <rect x="{CX0}" y="{CY0}" width="{CX1-CX0}" height="{CY1-CY0}" rx="16" fill="{c['ink']}"/>
   <text x="{cx}" y="{CY0+46}" text-anchor="middle" class="m" font-size="14" letter-spacing="3" fill="{c['accent']}">HARUN R. RAYHAN</text>
-  <text x="{cx}" y="{CY0+100}" text-anchor="middle" class="s" font-size="42" fill="{c['bg']}">Software Architect</text>
-  <text x="{cx}" y="{CY0+136}" text-anchor="middle" class="m" font-size="15" fill="{c['csub']}">design · build · ship · scale</text>
+  <text x="{cx}" y="{CY0+100}" text-anchor="middle" class="s" font-size="42" fill="{c['bg']}">Solution Architect</text>
+  <text x="{cx}" y="{CY0+136}" text-anchor="middle" class="m" font-size="15" letter-spacing="3" fill="{c['csub']}">SOFTWARE ENGINEER</text>
 </svg>
 '''
     open(f"{out}/architect-{name}.svg", "w").write(svg)
